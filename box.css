@@ -1,0 +1,7 @@
+.Box {
+    background-color: var(--color-canvas-default);
+    border-color: var(--color-border-default);
+    border-radius: var(--borderRadius-medium, 6px);
+    border-style: solid;
+    border-width: var(--borderWidth-thin, max(1px, 0.0625rem));
+}
